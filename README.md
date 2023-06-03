@@ -22,11 +22,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ### PROGRAM:
-Program to print the text “Implicitintent”.
+Program to print the text Implicitintent
 
-Developed by:Kathirvelan.K
+Developed by:Sreevarsha.D
 
-Registeration Number :212221220026
+Registeration Number :212221040159
 
 activity_main.xml
 ```
