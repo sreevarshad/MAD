@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ### OUTPUT:
-<img src="https://github.com/KATHIR1611/MAD/blob/main/mad%201.png" width=350 height=500> <img src="https://github.com/KATHIR1611/MAD/blob/main/mad%202.png" width=350 height=500>
+<img src="https://github.com/KATHIR1611/MAD/blob/main/mad%201.png" width=350 height=500><img src="https://github.com/KATHIR1611/MAD/blob/main/mad%202.png" width=350 height=500>
 
 
 ### RESULT:
