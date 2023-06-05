@@ -114,9 +114,6 @@ public class MainActivity extends AppCompatActivity {
 ### OUTPUT:
 
 ![](https://github.com/KATHIR1611/MAD/blob/main/mad%201.png)
-
-
-
 ![](https://github.com/KATHIR1611/MAD/blob/main/mad%202.png)
 
 
