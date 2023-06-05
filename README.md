@@ -104,13 +104,10 @@ public class MainActivity extends AppCompatActivity {
             String url=editText.getText().toString();
             Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse(url));
             startActivity(intent);
-
         });
     }
-
 }
 ```
-
 ### OUTPUT:
 <img src="https://github.com/KATHIR1611/MAD/blob/main/mad%201.png" width=350 height=500> <img src="https://github.com/KATHIR1611/MAD/blob/main/mad%202.png" width=350 height=500>
 
